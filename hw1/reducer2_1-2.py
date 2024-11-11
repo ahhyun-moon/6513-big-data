@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import sys
-from heapq import heappop, heappush, heapify
+from heapq import heappop, heappush
 
 def read_input(input, separator='\t'):
     for line in input:
